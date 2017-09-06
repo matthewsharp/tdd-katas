@@ -1,0 +1,10 @@
+C:\Users\matt.sharp\documents\visual studio 2017\Projects\StringCalculator\StringCalculator.Tests\bin\Debug\StringCalculator.Tests.dll
+C:\Users\matt.sharp\documents\visual studio 2017\Projects\StringCalculator\StringCalculator.Tests\bin\Debug\StringCalculator.Tests.pdb
+C:\Users\matt.sharp\documents\visual studio 2017\Projects\StringCalculator\StringCalculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\matt.sharp\documents\visual studio 2017\Projects\StringCalculator\StringCalculator.Tests\bin\Debug\StringCalculator.exe
+C:\Users\matt.sharp\documents\visual studio 2017\Projects\StringCalculator\StringCalculator.Tests\bin\Debug\StringCalculator.pdb
+C:\Users\matt.sharp\documents\visual studio 2017\Projects\StringCalculator\StringCalculator.Tests\bin\Debug\StringCalculator.exe.config
+C:\Users\matt.sharp\documents\visual studio 2017\Projects\StringCalculator\StringCalculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\matt.sharp\documents\visual studio 2017\Projects\StringCalculator\StringCalculator.Tests\obj\Debug\StringCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\matt.sharp\documents\visual studio 2017\Projects\StringCalculator\StringCalculator.Tests\obj\Debug\StringCalculator.Tests.dll
+C:\Users\matt.sharp\documents\visual studio 2017\Projects\StringCalculator\StringCalculator.Tests\obj\Debug\StringCalculator.Tests.pdb
